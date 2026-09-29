@@ -1,0 +1,37 @@
+{
+  "seed": 2,
+  "num_samples": 10,
+  "source_dataset": "bookcorpus",
+  "samples": [
+    {
+      "text": "arching her back , she gripped the strands of his hair tighter , willing him to take her nipple in his whole mouth ."
+    },
+    {
+      "text": "i finally start to feel calm enough to go to sleep , and reach to turn off my bedside lamp ."
+    },
+    {
+      "text": "that 'll give you a few days to settle in , '' my mom says as she slides the sandwich in front of nate ."
+    },
+    {
+      "text": "i do n't know of anyone who can dictate when a trial is going to happen ."
+    },
+    {
+      "text": "when you 're a veterinarian you can join my practice . ''"
+    },
+    {
+      "text": "`` sorry to drop in unannounced , i just needed to have a word with my daughter . ''"
+    },
+    {
+      "text": "she 'd vanquished that awful day from her mind for so many years , refusing to speak of it because nobody else in her family spoke of it ."
+    },
+    {
+      "text": "it was one thing if they missed the deadline and he got kicked off the ranch ."
+    },
+    {
+      "text": "morgan jumped as people leapt out from behind kiosks and baggage carousels ."
+    },
+    {
+      "text": "sure , dharr was strong enough and confident enough that he probably wouldn '' t be intimidated ."
+    }
+  ]
+}

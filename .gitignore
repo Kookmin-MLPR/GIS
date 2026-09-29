@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 모델 파일 (용량 큰 것들)
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+
+# 데이터셋
+data/*
+!data/bookcorpus_samples/
+!data/bookcorpus_samples/**
+datasets/
+*.csv
+*.json
+!data/bookcorpus_samples/*.json
+!data/bookcorpus_samples/**/*.json
+!data/alpaca_cleaned.json
+*.txt
+
+# 문서 (로컬 전용)
+docs/
+
+# 로그 및 결과
+logs/
+runs/
+outputs/
+checkpoints/
+wandb/
+student_lora_output*/
+student_physically_pruned*/
+student_finetuned_output*/
+eval_results/
+result/
+*.log
+
+# 환경 설정
+.env
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/

@@ -1,0 +1,37 @@
+{
+  "seed": 5,
+  "num_samples": 10,
+  "source_dataset": "bookcorpus",
+  "samples": [
+    {
+      "text": "a wordless agony built within her at the thought of turning her back on it all again ."
+    },
+    {
+      "text": "she thought she was being subtle , secretive but she desperately wanted to feel the skin underneath his shirt , to explore those muscles more intimately ."
+    },
+    {
+      "text": "since she was n't as stressed out about money and losing her clinic anymore , bella had found that morgan , rob , and the rest of the gang were more than willing to include her in their fun ."
+    },
+    {
+      "text": "she accepted the word hesitantly , feeling her heart clench with the pain even though there was a bit of joy in the admission ."
+    },
+    {
+      "text": "`` what did you feel when i put it on your finger that day ? ''"
+    },
+    {
+      "text": "`` i checked - all the names on that list are female , '' autumn said ."
+    },
+    {
+      "text": "in fact , she felt grateful for his poor choice of words because it yanked her right back to the present moment and the goal she 'd come on this show to achieve ."
+    },
+    {
+      "text": "`` i wonder what kind of reviews they 're going to write ."
+    },
+    {
+      "text": "`` so you 're going to continue to be cavalier about this ? ''"
+    },
+    {
+      "text": "we can go have lunch with mason , and then we can start our date ."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "seed": 4,
+  "num_samples": 10,
+  "source_dataset": "bookcorpus",
+  "samples": [
+    {
+      "text": "`` i do n't ever want to hear any of you joking about fighting to the death with each other ."
+    },
+    {
+      "text": "no expression came over dharr '' s face , but the assassination attempt had dramatically changed his way of looking at security issues ."
+    },
+    {
+      "text": "the expression in his eyes arrests me , and i still for a moment , then slowly begin to move my foot to the left ."
+    },
+    {
+      "text": "that 's it , right-why you do n't stay with women through the whole night ?"
+    },
+    {
+      "text": "i 'd come downstairs , excited to see father but only saw the two of you fighting . ''"
+    },
+    {
+      "text": "and he knew instantly that rachel carson would die a slow , painful death in new york city ."
+    },
+    {
+      "text": "we ca n't just throw caution to the wind , you live in europe , and- '' `` we 're twenty-five ! ''"
+    },
+    {
+      "text": "jackson pulls off his shirt , and i look down at my interlaced fingers in my lap ."
+    },
+    {
+      "text": "i loved the look of her place , it was open space and airy with windows all around with a view of the park and a bit of the city skyline ."
+    },
+    {
+      "text": "before she could stop herself , megan blurted , `` but i did n't want a gentleman ."
+    }
+  ]
+}

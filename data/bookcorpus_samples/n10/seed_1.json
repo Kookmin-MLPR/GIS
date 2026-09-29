@@ -1,0 +1,37 @@
+{
+  "seed": 1,
+  "num_samples": 10,
+  "source_dataset": "bookcorpus",
+  "samples": [
+    {
+      "text": "my dad all but carries deb over the threshold , humming some sort of ridiculous-vaguely familiar-marching tune ."
+    },
+    {
+      "text": "`` even in the foster homes , there was a hierarchy ."
+    },
+    {
+      "text": "originally designed as a private home , autumn and ethan cruz had transformed it into a guest lodge earlier in the year ."
+    },
+    {
+      "text": "something had compelled her to prepare fila for what might come ."
+    },
+    {
+      "text": "`` i usually have warmed lemon and honey with a glass of water ."
+    },
+    {
+      "text": "`` oh , there are a numbers of punishments i can dole out for a major infraction like that . ''"
+    },
+    {
+      "text": "i resist the urge to wonder what he 'll do now-it 's really none of my business anymore ."
+    },
+    {
+      "text": "mentally , she was thinking of all the things she wanted to do to him but in the end , she grabbed the phone one more time and found jennifer 's number already on one of the speed dials ."
+    },
+    {
+      "text": "`` it 's no trouble and i 'll sleep a lot better if i know you 've gotten home . ''"
+    },
+    {
+      "text": "he was dressed , as usual , in a business suit but his hair was slightly more rumpled , as if he 'd been running his fingers through it recently ."
+    }
+  ]
+}

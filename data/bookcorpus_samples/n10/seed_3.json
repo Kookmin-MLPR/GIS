@@ -1,0 +1,37 @@
+{
+  "seed": 3,
+  "num_samples": 10,
+  "source_dataset": "bookcorpus",
+  "samples": [
+    {
+      "text": "each visit had left him with an ache , a desire to be with her more often which he 'd had to fight with every fiber in his being ."
+    },
+    {
+      "text": "`` a selfish , arrogant , misogynistic control freak who 'll steal the best years of my life , lure me into depending on him and then dump me the minute he finds someone younger and prettier . ''"
+    },
+    {
+      "text": "`` i ca n't believe how close i came to losing you today , '' he said as he kissed her gently ."
+    },
+    {
+      "text": "luckily , the waitress comes back for our orders right at that moment , so i do n't end up throwing myself at him right then and there ."
+    },
+    {
+      "text": "we probably wo n't even be able to find each other on that thing , '' she said ."
+    },
+    {
+      "text": "`` i 'm way too old to sleep on anyone 's couch , '' claire said ."
+    },
+    {
+      "text": "`` i do n't think you understand about my relationship with your son , '' tabitha began slowly , cautiously ."
+    },
+    {
+      "text": "i planned to go after the contract before you guys bought me out ."
+    },
+    {
+      "text": "she glanced up at ethan to find him glancing down , and the warm feeling curved around her insides again ."
+    },
+    {
+      "text": "`` today is saturday , monday morning we 're going to my private doctor to have tests done ."
+    }
+  ]
+}

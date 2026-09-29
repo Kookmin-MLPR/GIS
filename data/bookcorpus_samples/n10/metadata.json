@@ -1,0 +1,13 @@
+{
+  "source_dataset": "bookcorpus",
+  "num_samples_per_seed": 10,
+  "seeds": [
+    42,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "total_pool_size": 54760
+}
